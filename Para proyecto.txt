@@ -1,0 +1,31 @@
+Para BD
+
+Catálogos:
+	-Habitación:
+		*ID
+		*Código
+		*Tipo
+		*Capacidad
+		*Estado/Condición
+	-Cliente:
+		*ID
+		*Cédula
+		*Nombre
+		*Apellidos
+		*Correo
+	Agregar, Eliminar, Modificar, Listar
+
+Procesos:
+	-Reserva:
+		*ID
+		*Código
+		*FechaEntrada
+		*FechaSalida
+		*CantAdultos
+		*CantNiños
+		*CantHabitaciones
+	Agregar, Eliminar, Modificar, Listar
+	Cancelación de reservas
+Consulta:
+	Listar habitaciones libres o conservadas
+	Consultar reservación por ID Cliente o Código Reserva
