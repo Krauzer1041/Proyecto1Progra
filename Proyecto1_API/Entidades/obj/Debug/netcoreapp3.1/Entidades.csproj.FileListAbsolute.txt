@@ -49,3 +49,20 @@ C:\Users\Jason\Documents\1. UAM\2022\PROGRA AVANZADA\PROYECTO\Version 2\Proyecto
 C:\Users\Jason\Documents\1. UAM\2022\PROGRA AVANZADA\PROYECTO\Version 2\Proyecto1\Proyecto1_API\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Jason\Documents\1. UAM\2022\PROGRA AVANZADA\PROYECTO\Version 2\Proyecto1\Proyecto1_API\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
 C:\Users\Jason\Documents\1. UAM\2022\PROGRA AVANZADA\PROYECTO\Version 2\Proyecto1\Proyecto1_API\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\bin\Debug\netcoreapp3.1\libzstd.dll
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\bin\Debug\netcoreapp3.1\snappy32.dll
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\bin\Debug\netcoreapp3.1\snappy64.dll
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\bin\Debug\netcoreapp3.1\libsnappy64.so
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\bin\Debug\netcoreapp3.1\libzstd.so
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\bin\Debug\netcoreapp3.1\libsnappy64.dylib
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\bin\Debug\netcoreapp3.1\libzstd.dylib
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.AssemblyReference.cache
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\obj\Debug\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_API\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb

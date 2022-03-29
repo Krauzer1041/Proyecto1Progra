@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj": {
+    "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj",
         "projectName": "AccesoDatos",
-        "projectPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj",
+        "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\AccesoDatos\\obj\\",
+        "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,8 +33,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Entidades\\Entidades.csproj"
+              "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -162,14 +162,14 @@
         }
       }
     },
-    "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Negocio\\Negocio.csproj": {
+    "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Negocio\\Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Negocio\\Negocio.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Negocio\\Negocio.csproj",
         "projectName": "Negocio",
-        "projectPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Negocio\\Negocio.csproj",
+        "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Negocio\\Negocio.csproj",
         "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Negocio\\obj\\",
+        "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Negocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -191,11 +191,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj": {
-                "projectPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj"
+              "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj"
               },
-              "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Entidades\\Entidades.csproj"
+              "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -234,14 +234,14 @@
         }
       }
     },
-    "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -263,11 +263,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Entidades\\Entidades.csproj"
+              "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Entidades\\Entidades.csproj"
               },
-              "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Negocio\\Negocio.csproj": {
-                "projectPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Negocio\\Negocio.csproj"
+              "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Negocio\\Negocio.csproj": {
+                "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Negocio\\Negocio.csproj"
               }
             }
           }

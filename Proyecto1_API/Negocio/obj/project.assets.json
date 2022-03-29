@@ -1326,11 +1326,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Negocio\\Negocio.csproj",
+      "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Negocio\\Negocio.csproj",
       "projectName": "Negocio",
-      "projectPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Negocio\\Negocio.csproj",
+      "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Negocio\\Negocio.csproj",
       "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Negocio\\obj\\",
+      "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Negocio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1352,11 +1352,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj": {
-              "projectPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj"
+            "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj": {
+              "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj"
             },
-            "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\Entidades\\Entidades.csproj"
             }
           }
         }

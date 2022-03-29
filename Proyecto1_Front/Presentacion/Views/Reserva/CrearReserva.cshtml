@@ -38,9 +38,16 @@
                 <span asp-validation-for="cantNinos" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="cantHabitaciones" class="control-label"></label>
-                <input asp-for="cantHabitaciones" class="form-control" />
-                <span asp-validation-for="cantHabitaciones" class="text-danger"></span>
+                <label>Habitacion</label>
+                <br />
+                @Html.DropDownList("Habitacion", (List<SelectListItem>)ViewBag.Habitaciones)
+
+            </div>
+            <div class="form-group">
+                <label>Cliente</label>
+                <br />
+                @Html.DropDownList("Cliente", (List<SelectListItem>)ViewBag.Clientes)
+
             </div>
             <div class="form-group">
                 <input type="submit" value="Crear" class="btn btn-primary" />

@@ -17,10 +17,10 @@ namespace Entidades
         public string Codigo { get; set; }
 
         [BsonElement("Fecha de Entrada")]
-        public string fechaEntrada { get; set; }
+        public DateTime fechaEntrada { get; set; }
 
         [BsonElement("Fecha de Salida")]
-        public string fechaSalida { get; set; }
+        public DateTime fechaSalida { get; set; }
 
         [BsonElement("Cantidad de Adultos")]
         public int cantAdultos { get; set; }
@@ -42,8 +42,8 @@ namespace Entidades
         {
             ID = string.Empty;
             Codigo = string.Empty;
-            fechaEntrada = string.Empty;
-            fechaSalida = string.Empty;
+            fechaEntrada = DateTime.MinValue;
+            fechaSalida = DateTime.MinValue;
             cantAdultos = 0;
             cantNinos = 0;
             Habitacion = null;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ozuFdlLP3/LEkNR7OpNPTE8PFHl98S9AvaBoMG8H2dQpoDPPeE9fPmui51lUJ9dZiYltqbXsSkght35pht1jDQ==",
+  "dgSpecHash": "Z7ghSzbpI0S+dhDkBvFN71qeIRZQZQMIQtJ3OSwCOXAALe32qmVHiN24KdAZl5BjyDwVGBYDLpxLEaL8dx6buA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jason\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

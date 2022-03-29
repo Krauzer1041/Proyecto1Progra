@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8z1i8HBvOLBZJ5zNjzqzo7YNTc0vdn28I34XC03UItq+xNfJWLYbotTyHrDOtvLZkSTjmrkUfrh83yEYYh6uoQ==",
+  "dgSpecHash": "cO+V6fb6eQZe11/yXLprxOiWyPEjlu+Mv9Vq4c5cfaWPYORctgPzLpIhx6+D8qjttttlKtpPgO15dC7UrVYsXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj",
+  "projectFilePath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_API\\AccesoDatos\\AccesoDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jason\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.netcore.app\\2.2.8\\microsoft.netcore.app.2.2.8.nupkg.sha512",

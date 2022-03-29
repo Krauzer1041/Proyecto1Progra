@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Presentacion.Models.HabitacionModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="CrearHabitacion" asp-controller="Habitacion">Crear nueva habitación</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Codigo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Capacidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Condicion)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.Habitaciones)
+        {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Codigo</td>
+            <td>@item.Tipo</td>
+            <td>@item.Capacidad</td>
+            <td>@item.Condicion</td>
+        </tr>
+
+        }
+    </tbody>
+</table>

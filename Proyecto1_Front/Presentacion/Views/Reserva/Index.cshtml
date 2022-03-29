@@ -4,7 +4,7 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Reservas</h1>
 
 <p>
     <a asp-action="CrearReserva" asp-controller="Reserva">Crear nueva reserva</a>
@@ -31,8 +31,12 @@
                 @Html.DisplayNameFor(model => model.cantNinos)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.cantHabitaciones)
+                @Html.DisplayNameFor(model => model.Cliente.Cedula)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Habitacion.Codigo)
+            </th>
+
             <th></th>
         </tr>
     </thead>
@@ -58,7 +62,10 @@
                 @Html.DisplayFor(modelItem => item.cantNinos)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.cantHabitaciones)
+                @Html.DisplayFor(modelItem => item.Cliente.Cedula)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Habitacion.Codigo)
             </td>
             <td>
                 @Html.ActionLink("Modificar", "EditaReserva", "Reserva", new { item.ID }, new { @class = "btn btn-primary" }) |

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RS9CLH9fZKberlTyDDh2zUmiHLNSk05nUjrmyYI1nC+rplTYiKZIFIVH40ZBNxn2HqVFEtokvONebQvgBYnW9Q==",
+  "dgSpecHash": "5K2xxm7hIocaKiOdlTjjfrpWp+jz5NEQLJIzT2zK15zVIwLpKeRUIqolD/HaZaaPd3+s4zcKP1TJBtvDIeOpkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jason\\Documents\\1. UAM\\2022\\PROGRA AVANZADA\\PROYECTO\\Version 2\\Proyecto1\\Proyecto1_Front\\Presentacion\\Presentacion.csproj",
+  "projectFilePath": "C:\\Users\\Jason\\Documents\\GitHub\\Proyecto1Progra\\Proyecto1_Front\\Presentacion\\Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

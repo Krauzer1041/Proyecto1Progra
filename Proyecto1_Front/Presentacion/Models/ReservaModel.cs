@@ -14,7 +14,8 @@ namespace Presentacion.Models
         public DateTime fechaSalida { get; set; }
         public int cantAdultos { get; set; }
         public int cantNinos { get; set; }
-        public int cantHabitaciones { get; set; }
+        public HabitacionModel Habitacion { get; set; }
+        public ClienteModel Cliente { get; set; }
 
         #endregion
 
@@ -28,7 +29,8 @@ namespace Presentacion.Models
             fechaSalida = DateTime.MinValue;
             cantAdultos = 0;
             cantNinos = 0;
-            cantHabitaciones = 0;
+            Habitacion = null;
+            Cliente = null;
         }
         #endregion
     }
