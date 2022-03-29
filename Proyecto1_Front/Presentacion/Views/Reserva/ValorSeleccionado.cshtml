@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Presentacion.Models.ReservaModel>
+
+@{
+    ViewData["Title"] = "Reserva(s)";
+}
+
+
+<table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Codigo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.fechaEntrada)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.fechaSalida)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.cantAdultos)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.cantNinos)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Habitacion.Codigo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Cliente.Cedula)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.Lista)
+            {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.Codigo</td>
+                <td>@item.fechaEntrada</td>
+                <td>@item.fechaSalida</td>
+                <td>@item.cantAdultos</td>
+                <td>@item.cantNinos</td>
+                <td>@item.Habitacion.Codigo</td>
+                <td>@item.Cliente.Cedula</td>
+            </tr>
+
+            }
+        </tbody>
+    </table>
+
+<div>
+    <a asp-action="Consultar" asp-controller="Reserva">Volver a buscar</a>
+</div>

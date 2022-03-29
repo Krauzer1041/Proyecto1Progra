@@ -10,6 +10,18 @@ namespace Presentacion.Controllers
 {
     public class ReservaController : Controller
     {
+        private List<SelectListItem> ObtenerOpciones() {
+            return new List<SelectListItem> {
+                new SelectListItem{
+                    Text = "Cedula de Cliente",
+                    Value = "A"
+                },
+                new SelectListItem{
+                    Text = "Codigo de Reserva",
+                    Value = "B"
+                }
+            };
+        }
         public async Task<IActionResult> CrearReserva()
         {
             GestorConexiones objconexion = new GestorConexiones();
@@ -98,11 +110,27 @@ namespace Presentacion.Controllers
             return View(reserva);
         }
 
-        public async Task<IActionResult> Consultar()
-        {
+        public IActionResult Consultar()
+        {            
+            ViewBag.Listado = ObtenerOpciones();
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> ValorSeleccionado() {
+            string opcionSeleccionada = Request.Form["ddlFiltro"].ToString();
+            string textBoxDato = Request.Form["TextBoxInfo"].ToString();
+
             GestorConexiones objconexion = new GestorConexiones();
-            List<HabitacionModel> lstHabitaciones = await objconexion.ListarHabitacion();
-            ViewBag.Habitaciones = lstHabitaciones;
+            List<ReservaModel> lstresultados = await objconexion.ListarReserva();
+
+            if (opcionSeleccionada.Equals("A")) //En caso que se Seleccione filtrar por numero de cedula
+            {
+                lstresultados = lstresultados.FindAll(x => x.Cliente.Cedula.Equals(textBoxDato));
+            }
+            else {
+                lstresultados = lstresultados.FindAll(x => x.Codigo.Equals(textBoxDato));
+            }
+            ViewBag.Lista = lstresultados;
 
             return View();
         }

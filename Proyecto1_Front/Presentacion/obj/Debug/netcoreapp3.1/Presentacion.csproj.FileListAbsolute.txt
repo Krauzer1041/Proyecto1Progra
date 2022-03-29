@@ -374,3 +374,4 @@ C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_Front\Presentacion\obj
 C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
 C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_Front\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.csproj.AssemblyReference.cache
 C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\Consultar.cshtml.g.cs
+C:\Users\Jason\Documents\GitHub\Proyecto1Progra\Proyecto1_Front\Presentacion\obj\Debug\netcoreapp3.1\Razor\Views\Reserva\ValorSeleccionado.cshtml.g.cs
